@@ -1,8 +1,8 @@
 class MacCleaner < Formula
   desc "Tiny macOS cleaner: RAM, Trash, apps, large files, caches, temp, dev worktrees, duplicates"
   homepage "https://github.com/iberis-suite/mac-cleaner"
-  url "https://github.com/iberis-suite/mac-cleaner/archive/refs/tags/v1.4.0.tar.gz"
-  sha256 "6cf52b27fc8dc36724a6ce0a371e57e3e4b03aa4d9638318703881f86e700a51"
+  url "https://github.com/iberis-suite/mac-cleaner/archive/refs/tags/v1.5.0.tar.gz"
+  sha256 "32ef6cfe62dc88fc61c8b274e69e6b3c294ee543a174d44176c498b8feb6be4e"
   license "MIT"
 
   depends_on :macos
